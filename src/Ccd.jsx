@@ -2,7 +2,7 @@ import React from 'react'
 
 const Ccd = () => {
   return (
-    <div>Ccd</div>
+    <div style={{ backgroundColor: '#ccccff', height: '100vh' }}>Ccd</div>
   )
 }
 

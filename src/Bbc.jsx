@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bbc = () => {
   return (
-    <div>Bbc</div>
+    <div style={{ backgroundColor: '#ccffcc', height: '100vh' }}>Bbc</div>
   )
 }
 

@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Abc = () => {
+const Abc  = () => {
   return (
-    <div>Abc</div>
+    <div style={{ backgroundColor: '#ffcccc', height: '100vh' }}>Abc</div>
   )
 }
 
